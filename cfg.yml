@@ -1,4 +1,4 @@
-name: qb-cfg
+name: qb-cfg-intro-ml
 channels:
   - conda-forge
 dependencies:
