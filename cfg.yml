@@ -1,4 +1,4 @@
-name: qb-cfg-explanatory-analysis
+name: qb-cfg
 channels:
   - conda-forge
 dependencies:
